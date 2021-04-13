@@ -82,4 +82,4 @@ for ( let eachStudent of newArrayOfStudents ) {
 newArrayOfStudents.sort = Array.prototype.sort;
 
 newArrayOfStudents.sort();
-console.log(newArrayOfStudents.sort);
+console.log(newArrayOfStudents.sort());
